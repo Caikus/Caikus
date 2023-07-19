@@ -1,8 +1,8 @@
 - 👋 Ola, eu sou @Caikus
 - 👀 Estou interessado em aprender sobre Tecnologia, Banco de Dados e programação!
 - 🌱 atualmente estou Cursando Analise de Desenvolvimentos de Sistema...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
+- 
 
 <!---
 Caikus/Caikus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
